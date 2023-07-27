@@ -18,9 +18,6 @@ Hello! I am a computer engineer from Venezuela with more than eight years of exp
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=x8xIsanamix8x&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=x8xIsanamix8x&icon=0&color=0)](https://visitcount.itsvg.in)
 
